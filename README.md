@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhupendra
 - 👀 I’m interested in Data Science, ML and AI
 - 🌱 I’m currently learning ML and Data Science
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate on Data Science and AI
 - 📫 How to reach me drop me a email at itsbplearning@gmail.com
 
 <!---
